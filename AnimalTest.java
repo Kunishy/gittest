@@ -2,7 +2,11 @@ public class AnimalTest{
     public static void main(String args[]){
         PolymorphismDemo demo = new PolymorphismDemo();
         demo.PolymorphismUsingFor();
+<<<<<<< HEAD
         Cat dog = new Cat(); 
+=======
+        Cat dog = new Cat(); //fajok,
+>>>>>>> feature
         demo.lyric(dog);
     }
 }
