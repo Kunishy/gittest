@@ -110,7 +110,7 @@
         "price": -200,
         "remark": "",
         "time": "2024-09-30T20:15"},
-    "recurringAccount": null }
+    "recurringAccount": null },
     {"account":{
         "accType": "expense",
         "attach": null,
